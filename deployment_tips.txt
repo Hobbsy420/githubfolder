@@ -1,0 +1,30 @@
+
+# Deployment Tips
+
+## Headless Deployment
+
+For running on a server or cloud:
+
+- Uncomment `--headless` in Chrome options.
+- Use `screen` or `tmux` to keep the bot running.
+
+## Hosting
+
+- VPS (like DigitalOcean or Linode)
+- AWS EC2 or Google Cloud Compute
+- PythonAnywhere or Heroku (with Selenium buildpacks)
+
+## Logging
+
+- Add more detailed logs or use logging module.
+- Rotate logs if running long-term.
+
+## Security
+
+- Store credentials in environment variables or use a `.env` file.
+- Do not commit sensitive data to version control.
+
+## Monitoring
+
+- Add exception handling with retries.
+- Consider a dashboard or Slack integration for updates.

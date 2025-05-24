@@ -1,0 +1,29 @@
+# LinkedIn Credentials
+LINKEDIN_USERNAME=bendhobbs@gmail.com
+LINKEDIN_PASSWORD=weirdo28
+
+# Wellfound Credentials
+WELLFOUND_USERNAME=bendhobbs@gmail.com
+WELLFOUND_PASSWORD=weirdo28
+
+# Email Configuration
+EMAIL_ADDRESS=bendhobbs@gmail.com
+EMAIL_PASSWORD=weirdo28
+RECIPIENT_EMAIL=recipient@example.com
+
+# Slack Webhook (optional)
+SLACK_WEBHOOK_URL=https://hooks.slack.com/services/your/webhook/url
+
+# Identity Info for Cover Letters
+USER_NAME=Your Name
+USER_SKILLS=Python, Web Automation, Selenium, Flask
+
+# Search Queries by Platform
+LINKEDIN_QUERY=Software Engineer
+LINKEDIN_LOCATION=Remote
+
+INDEED_QUERY=Python Developer
+INDEED_LOCATION=Remote
+
+WELLFOUND_QUERY=Backend Developer
+WELLFOUND_LOCATION=Remote
